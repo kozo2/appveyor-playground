@@ -1,2 +1,2 @@
 install:
-  - where.exe node.exe
+  - dir C:\Libraries\boost\
